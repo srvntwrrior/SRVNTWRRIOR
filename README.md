@@ -7,9 +7,9 @@
 <h1 align="center"> Mechatronics Engineering Student </h1>
 
 
-<img align="right" alt="coding" width="300" lenght="600" src="https://media.giphy.com/media/RkDZq0dhhYHhxdFrJB/giphy.gif">
+<img align="left" alt="coding" width="300" lenght="600" src="https://media.tenor.com/Xf_PZVtHpSgAAAAC/anime-typing.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srvntwrrior&label=Profile%20views&color=0e75b6&style=flat" alt="srvntwrrior" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=srvntwrrior&label=Profile%20views&color=0e75b6&style=flat" alt="srvntwrrior" /> </p>
 
 - 🔭 I’m currently working on our *Project*
 - 🌱 I’m currently learning *Robotics 2*
