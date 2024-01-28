@@ -1,4 +1,5 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+
 <img align="center" alt="coding" width="1000" 
   src="422700440_744421027603767_1541218001229117246_n.gif">
 
