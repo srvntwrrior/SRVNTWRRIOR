@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 <img align="center" alt="coding" width="1000" 
-  src="422692716_948207289974898_4393159025911298467_n.gif">
+  src="422700440_744421027603767_1541218001229117246_n.gif">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Dianne+Tricia+Mae+Ortega!;" />
